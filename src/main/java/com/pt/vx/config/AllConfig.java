@@ -92,17 +92,17 @@ public class AllConfig {
                 "CM",//咋称呼这个人
                 new BirthDay(1997,2,20,false),  //这个人的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
                 new BirthDay(1997,1,18,true), //这个人对象的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
-                LocalDate.of(2020,5,8),//这个人的纪念日起点，比如说在一起的那一天
+                LocalDate.of(2022,7,2),//这个人的纪念日起点，比如说在一起的那一天
                 "浙江省嘉兴市南湖区",//这个人的详细地址
                 "嘉兴",//这个人在的城市
                 "ollJwPJj1NnpRRwT0OxuVrXXVNqRozNid8ABlhwdQjc"));//要给这个人发送的模板ID
 
         userList.add(getUser(
                 "o1BU26lqWKvjjcwFcSOFl9ESVeQw",
-                "可爱的一迪宝贝~"
+                "可爱的一迪宝贝~",
                 new BirthDay(1997,1,18,true),  //这个人的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
                 new BirthDay(1997,2,20,false), //这个人对象的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
-                LocalDate.of(2020,7,2),//这个人的纪念日
+                LocalDate.of(2022,7,2),//这个人的纪念日
                 "浙江省嘉兴市南湖区",//这个人的详细地址
                 "嘉兴",//这个人在的城市
                 "ollJwPJj1NnpRRwT0OxuVrXXVNqRozNid8ABlhwdQjc"));//要给这个人发送的模板ID
