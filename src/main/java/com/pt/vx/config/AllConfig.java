@@ -105,7 +105,7 @@ public class AllConfig {
                 LocalDate.of(2020,5,8),//这个人的纪念日
                 "浙江省嘉兴市南湖区",//这个人的详细地址
                 "嘉兴",//这个人在的城市
-                "F1HDtPFmQ0Sgml2GMwV12gAean4XC8KW7FChIwo4Bo4"));//要给这个人发送的模板ID
+                "TOtpVOuG_cSyHNbjJQavY3b2VaUE2VuNr7dowJvSR-o"));//要给这个人发送的模板ID
 
         
     }
