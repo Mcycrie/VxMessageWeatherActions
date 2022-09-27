@@ -95,7 +95,7 @@ public class AllConfig {
                 LocalDate.of(2020,5,8),//这个人的纪念日起点，比如说在一起的那一天
                 "浙江省嘉兴市南湖区",//这个人的详细地址
                 "嘉兴",//这个人在的城市
-                "TOtpVOuG_cSyHNbjJQavY3b2VaUE2VuNr7dowJvSR-o"));//要给这个人发送的模板ID
+                "JANqexGMejE7i-0Pui-jt8RFfU6BrvXKRSfiqr95rkc"));//要给这个人发送的模板ID
 
         userList.add(getUser(
                 "o1BU26lqWKvjjcwFcSOFl9ESVeQw",
@@ -105,7 +105,7 @@ public class AllConfig {
                 LocalDate.of(2020,5,8),//这个人的纪念日
                 "浙江省嘉兴市南湖区",//这个人的详细地址
                 "嘉兴",//这个人在的城市
-                "TOtpVOuG_cSyHNbjJQavY3b2VaUE2VuNr7dowJvSR-o"));//要给这个人发送的模板ID
+                "JANqexGMejE7i-0Pui-jt8RFfU6BrvXKRSfiqr95rkc"));//要给这个人发送的模板ID
 
         
     }
