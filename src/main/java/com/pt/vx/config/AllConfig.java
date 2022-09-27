@@ -94,8 +94,7 @@ public class AllConfig {
                 new BirthDay(1997,1,18,true), //这个人对象的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
                 LocalDate.of(2022,7,2),//这个人的纪念日起点，比如说在一起的那一天
                 "浙江省嘉兴市南湖区",//这个人的详细地址
-                "嘉兴",//这个人在的城市
-                "ollJwPJj1NnpRRwT0OxuVrXXVNqRozNid8ABlhwdQjc"));//要给这个人发送的模板ID
+                "0KFVAcmgXVPAE8AFR3QA3yNY5i8Ep2ucb-5MXASiJJk"));//要给这个人发送的模板ID
 
         userList.add(getUser(
                 "o1BU26lqWKvjjcwFcSOFl9ESVeQw",
@@ -105,7 +104,7 @@ public class AllConfig {
                 LocalDate.of(2022,7,2),//这个人的纪念日
                 "浙江省嘉兴市南湖区",//这个人的详细地址
                 "嘉兴",//这个人在的城市
-                "ollJwPJj1NnpRRwT0OxuVrXXVNqRozNid8ABlhwdQjc"));//要给这个人发送的模板ID
+                "0KFVAcmgXVPAE8AFR3QA3yNY5i8Ep2ucb-5MXASiJJk"));//要给这个人发送的模板ID
 
         
     }
